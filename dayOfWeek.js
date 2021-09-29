@@ -19,4 +19,4 @@ function dayOfWeek(input){
   }else if(day === -1){
     console.log('Error');
 }
-dayOfWeek(["1"]);
+dayOfWeek(["1"])
